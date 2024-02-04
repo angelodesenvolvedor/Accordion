@@ -22,4 +22,4 @@
 *   Nome do dev : Angelo - Desenvolvedor Frontend - [angelo_desenvolvedor](https://github.com/angelodesenvolvedor)
   
 # 📄 Licença
-Esse projeto está sob a licença MIT license - acesse os detalhes LICENSE.md. (https://github.com/angelodesenvolvedor/Accordion?tab=MIT-1-ov-file)
+Esse projeto está sob a licença MIT license - acesse os detalhes [LICENSE.md](https://github.com/angelodesenvolvedor/Accordion/blob/main/LICENSE).
