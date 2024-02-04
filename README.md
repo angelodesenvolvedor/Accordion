@@ -19,7 +19,7 @@
 * ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 # 🧑🏽‍💻 Autor
-*  Nome do dev: Angelo - Desenvolvedor Frontend - @angelo_desenvolvedor (https://github.com/angelodesenvolvedor)
+*  ** Nome do dev** : Angelo - Desenvolvedor Frontend - [angelo_desenvolvedor](https://github.com/angelodesenvolvedor)
   
 # 📄 Licença
 Esse projeto está sob a licença MIT license - acesse os detalhes LICENSE.md. (https://github.com/angelodesenvolvedor/Accordion?tab=MIT-1-ov-file)
