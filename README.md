@@ -1,3 +1,5 @@
+![image](https://github.com/angelodesenvolvedor/Accordion/assets/98216100/a2609f1d-0004-4e0a-9d31-f951466ff6ec)
+
 # Accordion
 * Este projeto é um exemplo simples de um acordeão interativo usando HTML, CSS e JavaScript. Ele fornece informações sobre HTML, CSS, JavaScript e React de uma maneira acessível e interativa.
 
@@ -17,5 +19,7 @@
 * ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 # 🧑🏽‍💻 Autor
-* # Nome do dev: Angelo - Desenvolvedor Frontend - @angelo_desenvolvedor 
+*  Nome do dev: Angelo - Desenvolvedor Frontend - @angelo_desenvolvedor
   
+# 📄 Licença
+Esse projeto está sob a licença MIT license - acesse os detalhes LICENSE.md.  
