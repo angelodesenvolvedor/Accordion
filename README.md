@@ -1,7 +1,7 @@
 ![image](https://github.com/angelodesenvolvedor/Accordion/assets/98216100/a2609f1d-0004-4e0a-9d31-f951466ff6ec)
 
 # Accordion
-* Este projeto é um exemplo simples de um acordeão interativo usando HTML, CSS e JavaScript. Ele fornece informações sobre HTML, CSS, JavaScript e React de uma maneira acessível e interativa.
+* Este projeto é um exemplo simples de um accordion interativo usando HTML, CSS e JavaScript. Ele fornece informações sobre HTML, CSS, JavaScript e React de uma maneira acessível e interativa.
 
 # 📚 Introdução
 
